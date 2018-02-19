@@ -23,7 +23,7 @@ var a = 1;
 var b = 1;
 
 function setup() {
-	h1 = createElement('h1', 'This is a 2D Shape Generator');
+	h1 = createElement('h1', 'This is a 2D Shape Generator with some randomness');
 	createP("Use the sliders below to change the variables.");
 	createCanvas(400, 400);
 
